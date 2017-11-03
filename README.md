@@ -1,2 +1,2 @@
 # test
-Test for feature1 
+Test for feature1 (feature2)
